@@ -6,8 +6,26 @@ The [font](https://fonts.google.com/specimen/Exo+2) is direct, edgy, but slightl
 The main color theme of the logo is worked around a blue shade. The rainbow color scheme was chosen in a split complementary manor, based on two light shades, one of blue and on of green.
 
 ### Logo versions:
+![V1 - white background](https://github.com/balangheorghe/HCI/blob/master/Images/Logo.png)
+
+![V1 - black background](https://github.com/balangheorghe/HCI/blob/master/Images/LogoBlack.png)
+
+![V1 - blue background](https://github.com/balangheorghe/HCI/blob/master/Images/LogoBluish.png)
+
+
+![V2 - white background](https://github.com/balangheorghe/HCI/blob/master/Images/Logo2.png)
+
+![V2 - black background](https://github.com/balangheorghe/HCI/blob/master/Images/Logo2Black.png)
+
 
 ### Icon versions:
+![V1 - black background](https://github.com/balangheorghe/HCI/blob/master/Images/Icon.png)
+
+![V2 - black background](https://github.com/balangheorghe/HCI/blob/master/Images/Icon2.png)
+
+![V2 - blue background](https://github.com/balangheorghe/HCI/blob/master/Images/Icon2Bluish.png)
+
+![V2 - white background](https://github.com/balangheorghe/HCI/blob/master/Images/Icon2White.png)
 
 
 Scholarly Documentation rendered with [Dingus](http://scholarlymarkdown.com/dingus/).
