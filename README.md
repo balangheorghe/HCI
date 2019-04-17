@@ -11,3 +11,10 @@ ARC aims to be able to:
 - Render the user wearing the item based on the previously mentioned features.
 
 ARC is a proof-of-concept project to showcase different design techniques learned during the [Human Computer Interaction](https://profs.info.uaic.ro/~busaco/teach/courses/hci/) course.
+
+## Contents
+
+- [Design](DesignDocumentation.md)
+- [Persona](PersonaDocumentation.md)
+- [Storyboards](StoryboardsDocumentation.md)
+
