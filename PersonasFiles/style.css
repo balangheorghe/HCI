@@ -58,6 +58,7 @@ footer {clear:both; margin:5px 10px; padding:0;}
 	}
 	header {margin: 0;}
 	header #logo {display: none;}
+	article {page-break-after: always;}
 	article.persona {width:99%; margin:10px 2px;} 
 	.personaInfo h3, .personaInfo .personaBackground h4, .personaInfo .personaBackground h5, .personaDetails h4, .personaDetails h5, .personaScenarios h5, .otherDetails h5 {margin:0 0 5px; padding:5px; background-color: #ccc; color: #111; 
 	-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;}
