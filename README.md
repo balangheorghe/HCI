@@ -19,3 +19,4 @@ ARC is a proof-of-concept project to showcase different design techniques learne
 - [Persona](PersonaDocumentation.md)
 - [Storyboards](StoryboardsDocumentation.md)
 - [QOC](QocDocumentation.md)
+- [Sketches](SketchesDocumentation.md)
