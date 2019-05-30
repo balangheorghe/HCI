@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ARC</string>
+    <string name="logo">logo</string>
+    <string name="login">Login</string>
+    <string name="server_client_id">108619923985-9m9787i6f97niq5cu3qa65rifo86tgbe.apps.googleusercontent.com</string>
+    <string name="please_scan_the_tag">Please scan the tag!</string>
+</resources>

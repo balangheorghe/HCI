@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108619923985",
+    "firebase_url": "https://hciproject-1558888365605.firebaseio.com",
+    "project_id": "hciproject-1558888365605",
+    "storage_bucket": "hciproject-1558888365605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108619923985:android:e022e1406d2af193",
+        "android_client_info": {
+          "package_name": "com.example.gbalan.hci"
+        }
+      },
+      "oauth_client":
+        {
+          "client_id": "108619923985-o2jcmvgv608akhifkmdoviv4i46iqmjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gbalan.hci",
+            "certificate_hash": "119480ca6a1a644988e2092628fd18a95458f089"
+          }
+        },
+        {
+          "client_id": "108619923985-5csr56sposu3rict0v5p0j5lal3st9n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQwc0_1xcTUXOzBRKFzbtSaiWk9AX5g28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108619923985-5csr56sposu3rict0v5p0j5lal3st9n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
